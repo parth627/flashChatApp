@@ -7,8 +7,6 @@ The objective of this tutorial is to learn how to incorporate Firebase into our 
 
 We’re going to build a modern messaging app where users can sign up and log in to chat.
 
-!(https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
-
 ## What you will learn
 
 - How to incorporate Firebase into your Flutter projects.
